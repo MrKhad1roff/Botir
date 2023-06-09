@@ -1,2 +1,3 @@
-# Uyga Vazifa 6-dars
-😇👌🏿
+# Uyga Vazifa 
+## 6-dars
+## 😇👌🏿
