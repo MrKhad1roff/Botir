@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.header{
+    height: 100vh;
+    background:#4AFF00;
+   
+} 
+.nav{
+    width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+.list{
+    display: flex;
+    column-gap: 30px;
+}
+.link{
+    color: gold;
+    font-size: 20px;
+    text-transform: uppercase;
+}
