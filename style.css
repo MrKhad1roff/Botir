@@ -29,3 +29,21 @@ ul{
     font-size: 20px;
     text-transform: uppercase;
 }
+.header_content{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 20px;
+
+}
+.header_title{
+    color: goldenrod;
+    font-size:30px ;
+    text-transform: uppercase;
+}
+.header_text{
+    color: goldenrod;
+    font: 20px;
+}
